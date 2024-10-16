@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="inventory:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/controllers/BaseController.java" line="96" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/diagrams/schema.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/diagrams/schema.png" afterDir="false" />
+    </list>
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="teslarentalinventory: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="teslarentalinventory: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="customers: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="teslarentalinventory: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="financialtronpurchase: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="teslarentalinventory: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="purchases: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="865776675">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="774" />
+          <entry key="txt" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="774" />
+          <entry key="PLAIN_TEXT" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="9" />
+          <entry key="sql" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
+          <entry key="Scratch" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1695518707">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="452609457">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="74" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="74" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="678810208">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.63" value="2" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="fxml" value="3" />
+          <entry key="java" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JAVA" value="20" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1179" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1179" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1136038920">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="33" />
+          <entry key="project.open.time.100" value="1" />
+          <entry key="project.open.time.106" value="1" />
+          <entry key="project.open.time.110" value="1" />
+          <entry key="project.open.time.111" value="1" />
+          <entry key="project.open.time.123" value="1" />
+          <entry key="project.open.time.131" value="1" />
+          <entry key="project.open.time.139" value="1" />
+          <entry key="project.open.time.143" value="1" />
+          <entry key="project.open.time.150" value="1" />
+          <entry key="project.open.time.163" value="1" />
+          <entry key="project.open.time.194" value="1" />
+          <entry key="project.open.time.205" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.78" value="2" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.86" value="2" />
+          <entry key="project.open.time.87" value="1" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.open.time.89" value="2" />
+          <entry key="project.open.time.91" value="2" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.open.time.98" value="1" />
+          <entry key="project.opened" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="css" value="6" />
+          <entry key="fxml" value="10" />
+          <entry key="java" value="139" />
+          <entry key="png" value="4" />
+          <entry key="properties" value="1" />
+          <entry key="uml" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="CSS" value="6" />
+          <entry key="Image" value="4" />
+          <entry key="JAVA" value="139" />
+          <entry key="Properties" value="1" />
+          <entry key="UML" value="12" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="152" />
+          <entry key="fxml" value="14" />
+          <entry key="java" value="11108" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="11105" />
+          <entry key="PLAIN_TEXT" value="152" />
+          <entry key="SQL" value="3" />
+          <entry key="XML" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1144188519">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="fxml" value="1" />
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-722663819">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="DATABASE/b41d40ed-0845-4871-8332-8970d1cc81df" value="1" />
+          <entry key="MD" value="2" />
+          <entry key="accounts" value="1" />
+          <entry key="class" value="1" />
+          <entry key="customers" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="Database Element" value="2" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="14" />
+          <entry key="Markdown" value="2" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="MD" value="1683" />
+          <entry key="java" value="677" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="677" />
+          <entry key="Markdown" value="1683" />
+          <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.MD">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="114">
+                <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>itemN</find>
+      <find>itemNames</find>
+      <find>txtT</find>
+      <find>111</find>
+      <find>cha</find>
+      <find>chart</find>
+      <find>img</find>
+      <find>btnA</find>
+      <find>Entry m</find>
+      <find>reload</find>
+      <find>reloadR</find>
+      <find>btnT</find>
+      <find>btnTodayS</find>
+      <find>lblCos</find>
+      <find>loadA</find>
+      <find>lblC</find>
+      <find>loadAga</find>
+      <find>price</find>
+      <find>lbl</find>
+      <find>lblStock</find>
+      <find>txtSt</find>
+      <find>GUI</find>
+      <find>lblMo</find>
+      <find>start</find>
+      <find>if \(startTransaction\) \{\n            startTransaction \= false\; \/\/Resetting TransactionGUI Value\n            btnIcon\.setGlyphName\(\&quot;QUESTION\&quot;\)\;\n            lblVerify\.setText\(\&quot;Verify Input\&quot;\)\;\n            Tooltip tooltip \= new Tooltip\(\&quot;Verify Input\&quot;\)\;\n            btnProcced\.setTooltip\(tooltip\)\;\n                \/\/Loading TransactionGUI Window\n                \/\/Setting Values in TransactionGUI Window\n                TransactionGUI\.cusID \= Integer\.valueOf\(txtCustomerId\.getText\(\)\)\;\n                TransactionGUI\.purchaseId \= lblId\.getText\(\)\;\n                TransactionGUI\.purchaseQty \= Integer\.valueOf\(txtQty\.getText\(\)\)\;\n                TransactionGUI\.itemID \= Integer\.valueOf\(txtItemId\.getText\(\)\)\;\n                TransactionGUI\.rentOrSale \= true\;\n\n                Double paid \= 0\.0\;\n\n                \/\/Checking if input is valid\n                try \{\n                    if\(txtPayAmount\.getText\(\)\.equals\(\&quot;\&quot;\)\)\n                        paid \= 0\.0\;\n                    else\n                        paid \= Double\.valueOf\(txtPayAmount\.getText\(\)\)\;\n\n                    TransactionGUI\.payAmount \= paid\;\n                    TransactionGUI\.due \= Double\.valueOf\(lblCost\.getText\(\)\) \- paid\;\n\n\n                    Connection connection \= DBConnection\.getConnection\(\)\;\n\n                    \/\/Checking for stock availability\n                    PreparedStatement checkItemStock \= connection\.prepareStatement\(\&quot;SELECT stock FROM item WHERE itemID \= \&quot;\+Integer\.valueOf\(txtItemId\.getText\(\)\)\)\;\n                    ResultSet itemStock \= checkItemStock\.executeQuery\(\)\;\n\n                    Integer stock \= 0\;\n\n                    while\(itemStock\.next\(\)\) \{\n                        stock \= itemStock\.getInt\(1\)\;\n                    \}\n\n                    if\(\(stock \- Integer\.valueOf\(txtQty\.getText\(\)\)\) \&lt; 0\) \{\n                        new PromptDialogGUI\(\&quot;Insuffecient Stock\!\&quot;\, \&quot;Stock is insuffecient to validate this purchase\.\\nRequired\: \&quot; \+\n                                Integer\.valueOf\(txtQty\.getText\(\)\) \+\&quot;\\nIn Stock\:\&quot; \+ stock\)\;\n                        return\;\n                    \}\n\n                    TransactionGUI\.stock \= stock\;\n\n                    \/\/Checking for accounnts\n                    PreparedStatement preparedStatement \= connection\.prepareStatement\(\&quot;SELECT count\(\*\) from accounts\, customers where customerID \= Customers_customerID AND Customers_customerID \= \&quot;\+Integer\.valueOf\(txtCustomerId\.getText\(\)\)\)\;\n                    ResultSet rs \= preparedStatement\.executeQuery\(\)\;\n\n                    int chk \= 0\;\n\n                    while\(rs\.next\(\)\) \{\n                        chk \= rs\.getInt\(1\)\;\n                    \}\n                    if\(chk \&lt;\= 0\) \{\n                        new PromptDialogGUI\(\&quot;No Account\!\&quot;\, \&quot;Customer has no account\. Please create an account first then try again\.\&quot;\)\;\n                    \} else \{\n                        Parent trPanel \= FXMLLoader\.load\(getClass\(\)\.getResource\(\&quot;\/fxml\/transaction\.fxml\&quot;\)\)\;\n                        Scene trScene \= new Scene\(trPanel\)\;\n                        Stage trStage \= new Stage\(\)\;\n                        trStage\.setScene\(trScene\)\;\n                        trStage\.setResizable\(false\)\;\n                        trStage\.show\(\)\;\n                    \}\n\n                    connection\.close\(\)\;\n\n                \} catch \(Exception e\) \{\n                    txtPayAmount\.setUnFocusColor\(Color\.web\(\&quot;red\&quot;\)\)\;\n                    JFXSnackbar snackbar \= new JFXSnackbar\(rightPane\)\;\n                    snackbar\.show\(\&quot;Invalid Input Format\&quot;\, 3000\)\;\n                \}\n\n        \} else \{</find>
+      <find>toggle</find>
+      <find>Syst</find>
+      <find>initialView</find>
+      <find>addFlag</find>
+      <find>item</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>btnDashboard</replace>
+      <replace>txtStock</replace>
+      <replace>toggleTable</replace>
+      <replace>setView</replace>
+      <replace>addOrUpdate</replace>
+    </replaceStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Afif Al Mamun &lt;afifanik@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/controller/CustomerGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/AccountGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/InventoryGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/AdministratorGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/BaseGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/TransactionGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/InitializerGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/TransactionController.java" />
+        <option value="$PROJECT_DIR$/src/controller/InitializerController.java" />
+        <option value="$PROJECT_DIR$/src/controller/CustomerController.java" />
+        <option value="$PROJECT_DIR$/src/fxml/Test.java" />
+        <option value="$PROJECT_DIR$/src/controller/Test.java" />
+        <option value="$PROJECT_DIR$/src/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/src/fxml/test.fxml" />
+        <option value="$PROJECT_DIR$/src/controllers/RentalListController.java" />
+        <option value="$PROJECT_DIR$/src/java/controllers/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/controllers/AccountListController.java" />
+        <option value="$PROJECT_DIR$/src/java/controllers/AccountListController.java" />
+        <option value="$PROJECT_DIR$/src/java/others/Main.java" />
+        <option value="$PROJECT_DIR$/src/java/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/others/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/others/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/Twet.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/view/initializer.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/view/customer.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/InventoryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/AccountController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/AccountListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/CustomerPurchaseListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/CustomersRentalListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/DashboardController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/DueUpdateController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/EmployeeListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/ItemTypeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/LogInController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/NewEmployeeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/PromptDialogController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/TransactionController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/TransactionListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/BaseController.java" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/SellListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/AdministratorController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/RentalListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/others/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/others/DBConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/SellsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/RentalsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/InitializerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/CustomerController.java" />
+        <option value="$PROJECT_DIR$/README.MD" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="397" />
+    <option name="y" value="487" />
+    <option name="width" value="894" />
+    <option name="height" value="502" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InventorySystem" type="58d84e3e:PackageViewProjectNode" />
+              <item name="InventorySystem" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="InventorySystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="InventorySystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Progs/TeslaRentalInventory/src/fxml/initializer.fxml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594459821101" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;Amazon Redshift" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jar" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.153125" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project_Final\IntellijIDEA\InventorySystem\src\main\others" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\resource\icons" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\resource\" />
+      <recent name="D:\Progs\TeslaRentalInventory\src" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\resource" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project_Final\IntellijIDEA\InventorySystem\src\fxml" />
+      <recent name="D:\Project_Final\IntellijIDEA\TeslaRentalInventory\src\fxml" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\fxml" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\resource\icons" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="InventorySystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.controllers.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.others.Test" />
+      <module name="InventorySystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1531034287594" duration="617000" />
+      <workItem from="1531067100611" duration="13038000" />
+      <workItem from="1531082021112" duration="2286000" />
+      <workItem from="1531084437425" duration="63000" />
+      <workItem from="1531111252194" duration="32121000" />
+      <workItem from="1531172179422" duration="4803000" />
+      <workItem from="1531212338044" duration="25008000" />
+      <workItem from="1531254894096" duration="3385000" />
+      <workItem from="1531258522602" duration="1467000" />
+      <workItem from="1531328680773" duration="914000" />
+      <workItem from="1531341075699" duration="5554000" />
+      <workItem from="1531430406370" duration="4207000" />
+      <workItem from="1531468823089" duration="635000" />
+      <workItem from="1531471496659" duration="1062000" />
+      <workItem from="1531500409106" duration="7000" />
+      <workItem from="1531503522008" duration="2393000" />
+      <workItem from="1531583488546" duration="19286000" />
+      <workItem from="1531605307955" duration="187000" />
+      <workItem from="1531633972103" duration="291000" />
+      <workItem from="1531635116656" duration="260000" />
+      <workItem from="1531661537241" duration="10977000" />
+      <workItem from="1531676749266" duration="10772000" />
+      <workItem from="1531720321716" duration="782000" />
+      <workItem from="1531755949335" duration="4813000" />
+      <workItem from="1531860478460" duration="1179000" />
+      <workItem from="1532117704712" duration="4978000" />
+      <workItem from="1532126391412" duration="21000" />
+      <workItem from="1532197098919" duration="84000" />
+      <workItem from="1532207863363" duration="4245000" />
+      <workItem from="1532274130145" duration="20624000" />
+      <workItem from="1532335760401" duration="25933000" />
+      <workItem from="1532385153165" duration="2350000" />
+      <workItem from="1532387771987" duration="356000" />
+      <workItem from="1532416182513" duration="2793000" />
+      <workItem from="1532419193282" duration="114000" />
+      <workItem from="1532431260399" duration="7680000" />
+      <workItem from="1532600370859" duration="176000" />
+      <workItem from="1532604932835" duration="217000" />
+      <workItem from="1532667127379" duration="16842000" />
+      <workItem from="1532713914605" duration="15674000" />
+      <workItem from="1532880290659" duration="19323000" />
+      <workItem from="1532930780337" duration="2573000" />
+      <workItem from="1532963420569" duration="24266000" />
+      <workItem from="1533019111642" duration="20726000" />
+      <workItem from="1533041804446" duration="13436000" />
+      <workItem from="1533062179970" duration="13900000" />
+      <workItem from="1533098241707" duration="41751000" />
+      <workItem from="1533146649952" duration="47000" />
+      <workItem from="1533148905526" duration="4830000" />
+      <workItem from="1533310942880" duration="5064000" />
+      <workItem from="1533538173011" duration="1277000" />
+      <workItem from="1533585262175" duration="6279000" />
+      <workItem from="1533657691404" duration="337000" />
+      <workItem from="1533658210511" duration="1429000" />
+      <workItem from="1533829140098" duration="4904000" />
+      <workItem from="1533841690860" duration="491000" />
+      <workItem from="1533901060278" duration="1685000" />
+      <workItem from="1533910271512" duration="2189000" />
+      <workItem from="1533986906748" duration="213000" />
+      <workItem from="1533998003766" duration="1716000" />
+      <workItem from="1534000973769" duration="1970000" />
+      <workItem from="1534003171509" duration="63000" />
+      <workItem from="1534004013735" duration="656000" />
+      <workItem from="1534058248993" duration="1954000" />
+      <workItem from="1534075288679" duration="298000" />
+      <workItem from="1537444574912" duration="533000" />
+      <workItem from="1537508293683" duration="3143000" />
+      <workItem from="1537707625524" duration="81000" />
+      <workItem from="1539787673160" duration="7530000" />
+      <workItem from="1539806048808" duration="129000" />
+      <workItem from="1540478783512" duration="10791000" />
+      <workItem from="1540527017946" duration="3671000" />
+      <workItem from="1540735514242" duration="4716000" />
+      <workItem from="1540793431585" duration="1473000" />
+      <workItem from="1541003227779" duration="3132000" />
+      <workItem from="1541081126212" duration="5573000" />
+      <workItem from="1541166512975" duration="6098000" />
+      <workItem from="1541516714703" duration="2977000" />
+      <workItem from="1541865344976" duration="589000" />
+      <workItem from="1542899964538" duration="1715000" />
+      <workItem from="1543158335085" duration="5700000" />
+      <workItem from="1543247611272" duration="100000" />
+      <workItem from="1543248876189" duration="849000" />
+      <workItem from="1543335994313" duration="1400000" />
+      <workItem from="1543391032619" duration="594000" />
+      <workItem from="1543508094569" duration="605000" />
+      <workItem from="1543508791269" duration="478000" />
+      <workItem from="1545466140283" duration="116000" />
+      <workItem from="1545466667768" duration="970000" />
+      <workItem from="1545547893432" duration="1988000" />
+      <workItem from="1546018944355" duration="1597000" />
+      <workItem from="1546786896091" duration="2596000" />
+      <workItem from="1546804223820" duration="153000" />
+      <workItem from="1546843372276" duration="151000" />
+      <workItem from="1546844899470" duration="784000" />
+      <workItem from="1546879764469" duration="6276000" />
+      <workItem from="1547022830903" duration="6055000" />
+      <workItem from="1547131192478" duration="5229000" />
+      <workItem from="1547193332962" duration="3005000" />
+      <workItem from="1547224565788" duration="9507000" />
+      <workItem from="1547285264760" duration="3519000" />
+      <workItem from="1547305232308" duration="5145000" />
+      <workItem from="1547365103527" duration="6272000" />
+      <workItem from="1547392438020" duration="9952000" />
+      <workItem from="1547480023450" duration="5543000" />
+      <workItem from="1547562414919" duration="975000" />
+      <workItem from="1547734800289" duration="622000" />
+      <workItem from="1548490252654" duration="1124000" />
+      <workItem from="1548861419635" duration="1762000" />
+      <workItem from="1548949230493" duration="6672000" />
+      <workItem from="1594377639911" duration="3696000" />
+      <workItem from="1594388653193" duration="12278000" />
+      <workItem from="1594402463377" duration="1294000" />
+      <workItem from="1594403962593" duration="762000" />
+      <workItem from="1594454340960" duration="1360000" />
+      <workItem from="1594455831772" duration="2461000" />
+    </task>
+    <task id="LOCAL-00001" summary="Multiple view added.">
+      <created>1531118175694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531118175694</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Login added, Change in UI, Database connected.">
+      <created>1531171807715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531171807715</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="584645000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.24583964" />
+      <window_info id="Structure" order="1" weight="0.2647504" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" weight="0.32980332" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23832528" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39865997" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329582" />
+      <window_info anchor="bottom" id="Event Log" order="7" weight="0.329582" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.7491961" />
+      <window_info anchor="bottom" id="Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32850242" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32850242" />
+      <window_info anchor="bottom" id="SQL Generator" order="15" weight="0.8324958" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.3252818" />
+      <window_info anchor="bottom" id="Database Changes" order="17" weight="0.329582" />
+      <window_info anchor="bottom" id="Sequence" order="18" weight="0.6575563" />
+      <window_info anchor="bottom" id="Inspection Results" order="19" weight="0.329582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3295107" />
+      <window_info anchor="right" id="Database" order="5" weight="0.21482602" />
+      <window_info anchor="right" id="JetGradle" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" x="92" y="92" width="1182" height="554" id="Documentation" order="10" type="FLOATING" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.19288956" />
+      <window_info id="Structure" order="1" weight="0.24281392" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" weight="0.32980332" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40836012" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39865997" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329582" />
+      <window_info anchor="bottom" id="Event Log" order="7" weight="0.329582" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.7491961" />
+      <window_info anchor="bottom" id="Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.329582" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32998326" />
+      <window_info anchor="bottom" id="SQL Generator" order="15" weight="0.8324958" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32636657" />
+      <window_info anchor="bottom" id="Database Changes" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3295107" />
+      <window_info anchor="right" id="Database" order="5" weight="0.17397882" />
+      <window_info anchor="right" id="JetGradle" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" x="92" y="92" width="1182" height="554" id="Documentation" order="10" type="FLOATING" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="Multiple view added." />
+    <MESSAGE value="Login added, Change in UI, Database connected." />
+    <option name="LAST_COMMIT_MESSAGE" value="Login added, Change in UI, Database connected." />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/customer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/accounts.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/administrator.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/Purchase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/home.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/inventory.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/selllist.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/test.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/TestController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/Foo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/initializer.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="128" selection-start-line="14" selection-start-column="128" selection-end-line="14" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/customer.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="155" column="167" lean-forward="true" selection-start-line="155" selection-start-column="167" selection-end-line="155" selection-end-column="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AccountListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1718">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/CustomerPurchaseListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/CustomersRentalListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/DueUpdateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1718">
+          <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/EmployeeListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="131" column="31" selection-start-line="131" selection-start-column="31" selection-end-line="131" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/InventoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="105" column="70" selection-start-line="105" selection-start-column="70" selection-end-line="105" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/uml.uml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/TransactionListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/PromptDialogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/TransactionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4925">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/uml.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/tt.uml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1820">
+          <caret line="107" column="23" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/NewEmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/ItemTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="182" column="23" selection-start-line="182" selection-start-column="23" selection-end-line="182" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1699">
+          <caret line="3123" selection-start-line="3123" selection-end-line="3123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b41d40ed-0845-4871-8332-8970d1cc81df/schema/teslarentalinventory/table/accounts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b41d40ed-0845-4871-8332-8970d1cc81df/schema/teslarentalinventory/table/customers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/DashboardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AdministratorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="145" column="45" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/RentalListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="69" column="36" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/SellListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="54" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.11.jar!/com/mysql/cj/jdbc/ClientPreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="769" selection-start-line="769" selection-end-line="769" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/b41d40ed-0845-4871-8332-8970d1cc81df">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>b41d40ed-0845-4871-8332-8970d1cc81df</OriginalElement>
+          <nodes>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.item</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.rentals</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.user</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.trtypecode</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.itemtype</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.financialtronrental</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.usercredents</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.financialtronpurchase</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.accounts</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.customers</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.purchases</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9614035087719296" x="425.0" y="150.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/LogInController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-916">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="15" column="76" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InventorySystem.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/RentalsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="313" column="78" selection-start-line="313" selection-start-column="78" selection-end-line="313" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/SellsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="251" column="13" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="92" column="106" selection-start-line="92" selection-start-column="106" selection-end-line="92" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="635" column="38" selection-start-line="635" selection-start-column="38" selection-end-line="635" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/InitializerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="264" column="47" selection-start-line="264" selection-start-column="47" selection-end-line="264" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>inventory:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>Afif</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>InventorySystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-8.0.111</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
