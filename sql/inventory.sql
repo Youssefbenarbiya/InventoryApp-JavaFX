@@ -112,7 +112,7 @@ CREATE TABLE `financialtronpurchase` (
 
 LOCK TABLES `financialtronpurchase` WRITE;
 /*!40000 ALTER TABLE `financialtronpurchase` DISABLE KEYS */;
-INSERT INTO `financialtronpurchase` VALUES (1,'2018-07-05',1,1,1,'admin'),(2,'2018-07-06',2,2,2,'admin'),(3,'2018-07-07',3,2,3,'admin'),(4,'2018-07-09',4,2,4,'admin'),(5,'2018-07-11',5,1,5,'admin'),(6,'2018-07-11',6,3,6,'admin'),(7,'2018-07-12',7,4,7,'admin'),(8,'2018-07-12',8,3,8,'admin'),(9,'2018-07-14',9,2,9,'admin'),(10,'2018-07-14',10,2,10,'admin'),(11,'2018-08-06',9,1,11,'admin'),(12,'2018-08-07',7,1,12,'admin'),(13,'2018-08-18',8,1,13,'admin'),(14,'2018-08-09',10,1,14,'admin'),(15,'2018-08-10',5,2,15,'admin'),(16,'2018-08-10',7,1,16,'employee'),(17,'2018-08-10',6,1,17,'admin'),(18,'2018-08-11',3,1,18,'admin'),(19,'2018-08-11',1,1,19,'admin'),(20,'2018-08-11',9,1,20,'admin'),(21,'2018-08-11',5,1,21,'admin'),(22,'2020-07-10',3,1,22,'admin');
+INSERT INTO `financialtronpurchase` VALUES (1,'2024-07-05',1,1,1,'admin');
 /*!40000 ALTER TABLE `financialtronpurchase` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -147,8 +147,7 @@ CREATE TABLE `financialtronrental` (
 
 LOCK TABLES `financialtronrental` WRITE;
 /*!40000 ALTER TABLE `financialtronrental` DISABLE KEYS */;
-INSERT INTO `financialtronrental` VALUES (1,'2018-07-07',1,1,1,'admin'),(2,'2018-07-07',2,2,2,'admin'),(3,'2018-07-09',3,2,3,'admin'),(4,'2018-07-09',4,2,4,'admin'),(5,'2018-07-11',5,1,2,'admin'),(6,'2018-07-12',6,3,1,'admin'),(7,'2018-07-14',7,4,3,'admin'),(8,'2018-07-16',8,3,4,'admin'),(9,'2018-07-17',9,2,2,'admin'),(10,'2018-07-17',10,2,1,'admin'),(11,'2018-08-10',6,11,1,'admin'),(12,'2018-08-10',4,12,1,'admin'),(13,'2018-08-11',4,13,1,'admin'),(14,'2018-08-11',4,14,1,'admin'),(15,'2018-08-11',10,15,1,'admin');
-/*!40000 ALTER TABLE `financialtronrental` ENABLE KEYS */;
+INSERT INTO `financialtronrental` VALUES (1,'2024-07-07',1,1,1,'admin'),(2,'2024-07-07',2,2,2,'admin');
 UNLOCK TABLES;
 
 --
@@ -179,8 +178,7 @@ CREATE TABLE `item` (
 
 LOCK TABLES `item` WRITE;
 /*!40000 ALTER TABLE `item` DISABLE KEYS */;
-INSERT INTO `item` VALUES (1,'Mobile',47,'Sale',2000,0,'file:/D:/Project_Final/IntellijIDEA/Images/items/mobile.jpg',1),(2,'Computer',29,'Sale',15000,0,'file:/D:/Project_Final/IntellijIDEA/Images/items/computer.jpg',1),(3,'Truc',9,'Rental',0,400,'file:/D:/Project_Final/IntellijIDEA/Images/items/truck.jpg',5),(4,'Electric Heater',4,'Rental,Sale',100,800,'file:/D:/Project_Final/IntellijIDEA/Images/items/heater.jpg',2),(5,'Drilling Machine',10,'Sale',100,0,'file:/D:/Project_Final/IntellijIDEA/Images/items/drill.png',3),(6,'SkateBoard',1,'Sale',100,0,'file:/D:/Project_Final/IntellijIDEA/Images/items/skate.jpg',7),(7,'Hammer',4,'Sale',60,0,'file:/D:/Project_Final/IntellijIDEA/Images/items/hammer.jpg',4),(8,'X-mas lights',39,'Rental',0,50,'file:/D:/Project_Final/IntellijIDEA/Images/items/xmas.jpg',9),(9,'Product 2',14,'Sale',70,0,NULL,6),(10,'Product 3',9,'Sale',90,0,NULL,6),(11,'hghf',20,'Sale',44,0,NULL,2);
-/*!40000 ALTER TABLE `item` ENABLE KEYS */;
+INSERT INTO `item` VALUES (1,'Mobile',47,'Sale',2000,0,'file:/D:/Project_Final/IntellijIDEA/Images/items/mobile.jpg',1);
 UNLOCK TABLES;
 
 --
@@ -203,8 +201,7 @@ CREATE TABLE `itemtype` (
 
 LOCK TABLES `itemtype` WRITE;
 /*!40000 ALTER TABLE `itemtype` DISABLE KEYS */;
-INSERT INTO `itemtype` VALUES (1,'Electronics'),(2,'Home Appliances'),(3,'Tools'),(4,'Machinaries'),(5,'Automobiles'),(6,'Groceries'),(7,'Fun Stuff'),(8,'Sports'),(9,'Decoration'),(10,'Daily Basics');
-/*!40000 ALTER TABLE `itemtype` ENABLE KEYS */;
+INSERT INTO `itemtype` VALUES (1,'Electronics'),(2,'Home Appliances');
 UNLOCK TABLES;
 
 --
@@ -237,8 +234,7 @@ CREATE TABLE `purchases` (
 
 LOCK TABLES `purchases` WRITE;
 /*!40000 ALTER TABLE `purchases` DISABLE KEYS */;
-INSERT INTO `purchases` VALUES (1,'2018-7-5',2,0,'admin',1,1,1000),(2,'2018-7-6',3,0,'admin',2,2,1210),(3,'2018-7-7',1,0,'admin',3,3,920),(4,'2018-7-8',5,10,'admin',3,4,100),(5,'2018-7-9',7,0,'admin',1,6,200),(6,'2018-7-11',7,0,'admin',4,8,600),(7,'2018-7-12',4,0,'admin',5,1,8030),(8,'2018-7-13',9,0,'admin',6,7,800),(9,'2018-7-14',2,0,'admin',7,5,900),(10,'2018-7-17',6,0,'admin',8,5,1120),(11,'2018-08-7',3,0,'admin',7,8,180),(12,'2018-08-8',7,0,'admin',6,6,700),(13,'2018-08-9',5,0,'admin',9,7,70),(14,'2018-08-10',3,0,'admin',4,9,300),(15,'2018-08-10',1,0,'admin',10,4,90),(16,'2018-08-10',3,0,'employee',7,6,180),(17,'2018-08-10',1,0,'admin',6,5,100),(18,'2018-08-11',1,0,'admin',9,2,70),(19,'2018-08-11',3,0,'admin',1,1,6000),(20,'2018-08-11',1,0,'admin',6,8,100),(21,'2018-08-11',1,0,'admin',2,4,15000),(22,'2020-07-10',10,25,'admin',10,2,875);
-/*!40000 ALTER TABLE `purchases` ENABLE KEYS */;
+INSERT INTO `purchases` VALUES (1,'2024-7-5',2,0,'admin',1,1,1000);
 UNLOCK TABLES;
 
 --
@@ -271,8 +267,7 @@ CREATE TABLE `rentals` (
 
 LOCK TABLES `rentals` WRITE;
 /*!40000 ALTER TABLE `rentals` DISABLE KEYS */;
-INSERT INTO `rentals` VALUES (1,'2018-07-03','2018-07-12',1000,0,'admin',3,1),(2,'2018-07-04','2018-07-16',620,0,'admin',5,2),(3,'2018-07-05','2018-07-16',550,0,'admin',3,2),(4,'2018-07-05','2018-07-16',600,100,'admin',7,3),(5,'2018-07-06','2018-07-16',420,0,'admin',7,3),(6,'2018-07-07','2018-07-16',800,40,'admin',5,4),(7,'2018-07-07','2018-07-16',600,60,'admin',7,5),(8,'2018-07-08','2018-07-17',200,70,'admin',3,6),(9,'2018-07-09','2018-07-17',1000,80,'admin',5,6),(10,'2018-07-10','2018-07-17',1800,90,'admin',5,1),(11,'2018-07-11','2018-08-16',300,0,'admin',8,5),(12,'2018-07-12','2018-08-11',800,0,'admin',4,3),(13,'2018-07-16','2018-08-12',800,0,'admin',4,3),(14,'2018-07-11','2018-08-12',400,0,'admin',3,3),(15,'2018-08-11','2018-08-15',3200,0,'admin',4,9);
-/*!40000 ALTER TABLE `rentals` ENABLE KEYS */;
+INSERT INTO `rentals` VALUES (1,'2024-07-03','2024-07-12',1000,0,'admin',3,1);
 UNLOCK TABLES;
 
 --
