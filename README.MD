@@ -1,10 +1,7 @@
 ## Inventory Management System 
-<sup>Now that I look back to the codebase after a few years being a Software Engineer, it feels like a nightmare to me! I broke every rules SOLID suggests like a king! Thanks for understanding! LOL</sup>
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
-
-**Multi-user, RDBMS system for inventory management**
-<br>Worked on this project for my RDBMS course in DIU 
+**Multi-user system for inventory management**
+<br>Worked on this project for my JavaFX course in University 
 
 **Tech Stack**
 <br>JavaFX, MySQL
