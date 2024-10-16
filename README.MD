@@ -15,7 +15,7 @@
 
 ## Installation
 1. Make sure **MySQL** is installed properly and running at port **3306** with username **'root'** and password **'root'** 
-2. <code>git clone https://github.com/afifaniks/InventorySystem.git</code>
+2. <code>https://github.com/Youssefbenarbiya/InventoryApp-JavaFX.git</code>
 3. Open **MySQL Workbench** and login to your root account
 4. From **File** menu click **Open SQL Script**
 5. Navigate to: <code>../InventorySystem/sql</code> and select <code>inventory.sql</code> file
@@ -24,9 +24,6 @@
 8. Open CMD/Terminal and type: <code>java -jar InventorySystem.jar</code>
 9. You're all set!
  
-**Watch this video for more:**
-[https://youtu.be/Q35IDSXXz3Y](https://youtu.be/Q35IDSXXz3Y)
-
 ## Features
 - Dashboard
 - Multi-level Access Privilege
@@ -56,6 +53,5 @@ Prototypes:
 
 ![Dashboard](images/prototypes/Customers.png)
 
-**For any query contact through: https://afifaniks.github.io** 
 
 
